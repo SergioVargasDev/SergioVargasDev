@@ -1,7 +1,7 @@
 
 
 # 👨🏻‍💻 About Me:
-• First year computer science student at Tecnologico de Monterrey<br>• Currently learning about data structure and algorithms in <br>c++ and python; likewise, i´m consolidating my knowledge in <br>the area of web development, with languages such as: HTML, CSS <br>and JavaScript<br>• Passionate about the software architecture<br>• Eager to engage and acquire fresh knowledge
+• Second year computer science student at Tecnologico de Monterrey<br>• Currently learning about data structure and algorithms in <br>c++ and python; likewise, i´m consolidating my knowledge in <br>the area of web development, with languages such as: HTML, CSS <br>and JavaScript<br>• Passionate about the software architecture<br>• Eager to engage and acquire fresh knowledge
 
 
 
