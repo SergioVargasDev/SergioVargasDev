@@ -1,17 +1,21 @@
-<div align="center">
-
 # 👨🏻‍💻 About Me:
 • Second year computer science student at Tecnologico de Monterrey<br>• Currently learning about data structure and algorithms in <br>c++ and python; likewise, i´m consolidating my knowledge in <br>the area of web development, with languages such as: HTML, CSS <br>and JavaScript<br>• Passionate about the software architecture<br>• Eager to engage and acquire fresh knowledge
 
+
+
+
 # 💻 Tech Stack:
 
+
 - **Back-End Development**:
+  <div align="center">
 
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 <br>   
 
@@ -34,14 +38,15 @@
 
 <br>
 
-</div>
+</p>
+
+<br>
 
 -----
 
-<div align="center">
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
 
 <ul>
 
@@ -62,19 +67,13 @@
 </ul>
 </div>
 
-<div align="center">
-
 # 📊 GitHub Stats:
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
 </div>
 
 ---
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=SergioTomas2004&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-
