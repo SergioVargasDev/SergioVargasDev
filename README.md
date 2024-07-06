@@ -71,7 +71,7 @@
 # 📊 GitHub Stats:
 
 <div>
-![trophy](https://github-profile-trophy.vercel.app/?username=garrza&theme=onedark&margin-w=10&rank=-C,-?)
+![trophy](https://github-profile-trophy.vercel.app/?username=SergioVargasDev&theme=onedark&margin-w=10&rank=-C,-?)
 </div>
 
 <div>
