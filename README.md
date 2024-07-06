@@ -75,5 +75,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
+## GitHub Stats
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioVargasDev&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&show_icons=true&locale=en&theme=onedark"  width="410" /></p>
+</div>
+
+<p>&nbsp;</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SergioTomas2004&icon=0&color=0)](https://visitcount.itsvg.in)
