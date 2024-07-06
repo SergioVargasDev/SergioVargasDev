@@ -77,6 +77,6 @@
 
 
 <div align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" width = "410" 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" width = "450" 
 </div>
 
