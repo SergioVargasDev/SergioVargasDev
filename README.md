@@ -71,6 +71,10 @@
 # 📊 GitHub Stats:
 
 <div>
+![trophy](https://github-profile-trophy.vercel.app/?username=garrza&theme=onedark&margin-w=10&rank=-C,-?)
+</div>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "385">
 </div>
