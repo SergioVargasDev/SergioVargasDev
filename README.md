@@ -71,7 +71,6 @@
 
 ## GitHub Stats
 <div align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioVargasDev&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&show_icons=true&locale=en&theme=onedark"  width="410" /></p>
 
