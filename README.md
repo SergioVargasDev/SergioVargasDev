@@ -80,12 +80,10 @@
 # 📊 GitHub Stats:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410" 
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "410"> 
 </div>
 
-<div align = "right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "410 />
-</div>
 
 <div align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
