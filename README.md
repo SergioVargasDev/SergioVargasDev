@@ -70,9 +70,6 @@
 
 # 📊 GitHub Stats:
 
-<div>
-![trophy](https://github-profile-trophy.vercel.app/?username=SergioVargasDev&theme=onedark&margin-w=10&rank=-C,-?)
-</div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410">
