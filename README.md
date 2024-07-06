@@ -77,3 +77,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
 </div>
 
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
