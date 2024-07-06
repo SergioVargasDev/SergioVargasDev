@@ -74,7 +74,6 @@
 </div>
 
 <div align = "center">
-<img src="https://github-readme-streak-stats.vercel.app/api?username=garrza&show_icons=true&locale=en&theme=onedark" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
 </div>
-
 
