@@ -71,8 +71,8 @@
 # 📊 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "385" height = 300>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "385" height = 300> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "385">
 </div>
 
 
