@@ -80,7 +80,7 @@
 # 📊 GitHub Stats:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "300" height = "400"
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410" 
 </div>
 
 <div align = "right">
