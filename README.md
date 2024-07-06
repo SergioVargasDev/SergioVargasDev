@@ -71,7 +71,6 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garrza&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=garrza&show_icons=true&locale=en&theme=onedark"  width="410" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" /><br/>
 </div>
 
 <div align = "center">
