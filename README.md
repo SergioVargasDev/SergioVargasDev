@@ -1,8 +1,13 @@
-# 👨🏻‍💻 About Me:
-• Second year computer science student at Tecnologico de Monterrey<br>• Currently learning about data structure and algorithms in <br>c++ and python; likewise, i´m consolidating my knowledge in <br>the area of web development, with languages such as: HTML, CSS <br>and JavaScript<br>• Passionate about the software architecture<br>• Eager to engage and acquire fresh knowledge
+# About Me
 
-
-
+- 👋 Hi, I’m [Your Name]
+- 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
+- 🧩 I thrive on the challenges and creativity of both front-end and back-end development. My expertise spans advanced frameworks, machine learning, software architecture, and cloud infrastructure.
+- 🚀 Currently, I'm diving deep into data structures, algorithms, and expanding my knowledge in web development with HTML, CSS, JavaScript, and other modern technologies.
+- 📚 Eager to collaborate on projects involving JavaScript, Python, and C++.
+- 🔍 I’m always exploring new technologies and frameworks, aiming to contribute to innovative solutions and impactful projects.
+- 🗺️ You can view my portfolio [here](http://yourportfolio.com).
+- 📄 Check out my resume [here](https://drive.google.com/file/d/yourresume).
 
 # 💻 Tech Stack:
 
