@@ -6,8 +6,8 @@
 - 🚀 Currently, I'm diving deep into data structures, algorithms, and expanding my knowledge in web development with the PERN stack (PostgreSQL, Express.js, React, Node.js) and machine learning.
 - 📚 Eager to collaborate on projects involving JavaScript, Python, and C++.
 - 🔍 I’m always exploring new technologies and frameworks, aiming to contribute to innovative solutions and impactful projects.
-- 🗺️ You can view my portfolio [here](http://yourportfolio.com).
-- 📄 Check out my resume [here](https://drive.google.com/file/d/yourresume).
+- 🗺️ You can view my portfolio [Click](https://sergiotvargas.com/).
+- 📄 Check out my resume [Click](https://drive.google.com/file/d/1hzjqtYJFj6v7THZ9fCDRD7xSaJSLBqvv/view?usp=drive_link).
 
 # 💻 Tech Stack:
 
