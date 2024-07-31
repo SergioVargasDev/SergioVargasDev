@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m [Your Name]
+- 👋 Hi, I’m [Sergio Tomás Vargas Villarreal.]
 - 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
 - 🧩 I thrive on the challenges and creativity of both front-end and back-end development. My expertise spans advanced frameworks, machine learning, software architecture, and cloud infrastructure.
 - 🚀 Currently, I'm diving deep into data structures, algorithms, and expanding my knowledge in web development with the PERN stack (PostgreSQL, Express.js, React, Node.js) and machine learning.
