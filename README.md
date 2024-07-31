@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 - 👋 Hi, I’m Sergio Tomás Vargas Villarreal.
 - 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
@@ -9,7 +9,7 @@
 - 🗺️ You can view my portfolio [Click](https://sergiotvargas.com/).
 - 📄 Check out my resume [Click](https://drive.google.com/file/d/1hzjqtYJFj6v7THZ9fCDRD7xSaJSLBqvv/view?usp=drive_link).
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
  ### Back-End Development:
@@ -33,9 +33,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-# Let's Connect..
+## Let's Connect..
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 
 <div>
