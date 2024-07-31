@@ -49,29 +49,7 @@
 
 -----
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/sergio-tom%C3%A1s-vargas-villarreal-544032282/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Sergio Tomás Vargas Villarreal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSGLrRTxWcVlsMwBgcVlCszmxTJNXNxmVxznhXmSlHdStzgPwlfhCMLkWhmWfHSmMxmcJcxM](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDpJbppMNwJwZjLpcdVqXfKdvPhRkmGZxCWnJTWdtphxgZPGzQxDQTwWjbhWfBttSpwXVnv)" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  sergio.vargas.work@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
+# Let's Connect..
 
 # 📊 GitHub Stats:
 
