@@ -7,7 +7,7 @@
 - 📚 Eager to collaborate on projects involving JavaScript, Python, and C++.
 - 🔍 I’m always exploring new technologies and frameworks, aiming to contribute to innovative solutions and impactful projects.
 - 🗺️ You can view my portfolio [Click](https://sergiotvargas.com/).
-- 📄 Check out my resume [Click](https://drive.google.com/file/d/1_4SGzYJq4XH2KsRpXPvgcU_SY2U8nJln/view?usp=drive_link).
+- 📄 Check out my resume [Click](https://drive.google.com/file/d/1R5b-Hy964Wr5p8QTtsUvx_479QTqpYLp/view?usp=drive_link).
 
 # 💻 Tech Stack:
 
