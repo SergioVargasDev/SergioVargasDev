@@ -7,12 +7,12 @@
 - 📚 Eager to collaborate on projects involving JavaScript, Python, and C++.
 - 🔍 I’m always exploring new technologies and frameworks, aiming to contribute to innovative solutions and impactful projects.
 - 🗺️ You can view my portfolio [Click](https://sergiotvargas.com/).
-- 📄 Check out my resume [Click](https://drive.google.com/file/d/1CyTxIBxUkSYu9F4v4E7pvkbiCkoaSV6d/view?usp=drive_link).
+- 📄 Check out my resume [Click](https://drive.google.com/file/d/1_4SGzYJq4XH2KsRpXPvgcU_SY2U8nJln/view?usp=drive_link).
 
 # 💻 Tech Stack:
 
 
- ### Back-End Development:
+ ### Languages
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
