@@ -89,7 +89,7 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioVargasDev?theme=monokai_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioVargasDev&?theme=monokai_icons=true)  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "385">
 </div>
 
