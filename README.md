@@ -1,7 +1,6 @@
 # About Me
 
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 - 👋 Hi, I’m Sergio Tomás Vargas Villarreal.
 - 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
 - 🧩 I thrive on the challenges and creativity of both front-end and back-end development. My expertise spans advanced frameworks, machine learning, software architecture, and cloud infrastructure.
