@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/SergioVargasDev/SergioVargasDev/master/banner.png" alt="banner that says Sergio Vargas - software engineer, content creator and community organizer">
+
 #  👋 Hi, I’m Sergio Tomás Vargas Villarreal.
 
 - 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
