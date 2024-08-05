@@ -79,9 +79,30 @@
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+-----
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
 
-# Let's Connect..
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-trevi%C3%B1o" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Nicolas Trevino-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:nicolas.trevino04@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  nicolas.trevino04-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
 
 # 📊 GitHub Stats:
 
