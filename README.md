@@ -1,8 +1,7 @@
 # About Me
 
-<img align="right" alt="Coding" width="400"src="![image](https://github.com/user-attachments/assets/e290c66a-726f-459d-9bcf-b6d9a08a9007)
-">
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0cvcRi-TMlb4XLObXRSSF_&ust=1722905292647000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiEmcHQ3IcDFQAAAAAdAAAAABBF">
 - 👋 Hi, I’m Sergio Tomás Vargas Villarreal.
 - 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
 - 🧩 I thrive on the challenges and creativity of both front-end and back-end development. My expertise spans advanced frameworks, machine learning, software architecture, and cloud infrastructure.
