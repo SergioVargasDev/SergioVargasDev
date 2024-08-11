@@ -106,7 +106,7 @@
 </ul>
 </div>
 
-# 📊🏆 GitHub Stats & Trophies:
+# 🏆📊 Trophies & GitHub Stats :
 
 ![](https://github-profile-trophy.vercel.app/?username=SergioVargasDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
