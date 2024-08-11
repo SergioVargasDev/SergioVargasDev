@@ -108,6 +108,9 @@
 
 # 📊 GitHub Stats:
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SergioVargasDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410">
@@ -119,4 +122,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" width = "450" 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
