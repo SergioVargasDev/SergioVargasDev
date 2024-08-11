@@ -118,9 +118,9 @@
 </div>
 
 
-<div align = "left">
 # 🏆 Trophies:
 
+<div align = "left">
 ![](https://github-profile-trophy.vercel.app/?username=SergioVargasDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
