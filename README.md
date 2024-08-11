@@ -113,12 +113,14 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = "410">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDEv&theme=radical&hide_border=false" width = "385">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = "385">
 </div>
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = "450" 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDEv&theme=radical&hide_border=false
+" width = "450" 
 </div>
+
 
 
 
