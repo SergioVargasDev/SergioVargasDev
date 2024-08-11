@@ -112,21 +112,17 @@
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = "410">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = "385">
+<img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = "410">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDEv&theme=radical&hide_border=false" width = "385">
 </div>
-
 
 <div align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDev&theme=dark&hide_border=true" width = "450" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = "450" 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = "410">
 
 
-![]()
-![](https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDEv&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 	
 
