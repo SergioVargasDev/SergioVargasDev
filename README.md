@@ -108,8 +108,6 @@
 
 # 📊 GitHub Stats:
 
-
-
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = "410">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = "385">
