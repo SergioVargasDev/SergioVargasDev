@@ -102,6 +102,9 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDEv&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = "410">
+</div>
+
+<div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioVargasDEv&theme=radical&hide_border=false" width = "410" 
 </div>
 
