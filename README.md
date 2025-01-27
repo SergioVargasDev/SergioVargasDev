@@ -83,8 +83,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SergioVargasDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = "410">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioVargasDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = "330">
 <div align = "center">
+	
 # 🏆 Trophies:
-</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=SergioVargasDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
