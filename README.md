@@ -2,16 +2,16 @@
 
 #   Hi there👋
 
-- 🌟 I’m a third-year Computer Science student at Tecnológico de Monterrey with a strong passion for technology and programming.
-- 🧩 I thrive on the challenges and creativity of both front-end and back-end development. My expertise spans advanced frameworks, machine learning, software architecture, and cloud infrastructure.
-- 🚀 Currently, I'm diving deep into data structures, algorithms, and expanding my knowledge in web development with the PERN stack (PostgreSQL, Express.js, React, Node.js) and machine learning.
-- 📚 Eager to collaborate on projects involving JavaScript, Python, and C++.
-- 🔍 I’m always exploring new technologies and frameworks, aiming to contribute to innovative solutions and impactful projects.
-- 🗺️ You can view my portfolio [Click](https://sergiotvargas.com/).
-- 📄 Check out my resume [Click](https://drive.google.com/file/d/1R5b-Hy964Wr5p8QTtsUvx_479QTqpYLp/view?usp=drive_link).
+## Hi there
 
+I am a third-year Computer Science student at Tecnológico de Monterrey, currently focused on backend development, microservices, and scalable systems using NestJS, TypeScript, and Node.js. I am also deepening my understanding of system design and strengthening my skills in data structures and algorithms.
+
+My main motivation is building applications that bring value to others and help me grow as a developer. I seek to work on projects that have a meaningful impact and challenge me to improve.
+
+Outside of software development, I practice calisthenics and enjoy reading philosophy and books that encourage critical thinking and personal growth.
+
+- 
 # 💻 Tech Stack:
-
 
  ### Languages
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
