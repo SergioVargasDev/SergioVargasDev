@@ -8,7 +8,6 @@ My main motivation is building applications that bring value to others and help 
 
 Outside of software development, I practice calisthenics and enjoy reading philosophy and books that encourage critical thinking and personal growth.
 
-- 
 # Technical Skills
 
  ### Languages
