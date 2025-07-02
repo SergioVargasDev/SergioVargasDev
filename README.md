@@ -2,8 +2,6 @@
 
 #   Hi there👋
 
-## Hi there
-
 I am a third-year Computer Science student at Tecnológico de Monterrey, currently focused on backend development, microservices, and scalable systems using NestJS, TypeScript, and Node.js. I am also deepening my understanding of system design and strengthening my skills in data structures and algorithms.
 
 My main motivation is building applications that bring value to others and help me grow as a developer. I seek to work on projects that have a meaningful impact and challenge me to improve.
