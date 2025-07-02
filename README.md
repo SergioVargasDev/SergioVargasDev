@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/SergioVargasDev/SergioVargasDev/master/banner1.png" alt="banner that says Sergio Vargas - software engineer, content creator and community organizer">
 
-#   Hi there👋
+#   Hi there!
 
 I am a third-year Computer Science student at Tecnológico de Monterrey, currently focused on backend development, microservices, and scalable systems using NestJS, TypeScript, and Node.js. I am also deepening my understanding of system design and strengthening my skills in data structures and algorithms.
 
