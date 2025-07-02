@@ -1,4 +1,5 @@
-	<img src="https://raw.githubusercontent.com/SergioVargasDev/SergioVargasDev/master/banner1.png" alt="banner that says Sergio Vargas - software engineer, content creator and community organizer">
+<img src="https://raw.githubusercontent.com/SergioVargasDev/SergioVargasDev/master/banner1.png" alt="banner that says Sergio Vargas - software engineer, content creator and community organizer">
+
 
 #   Hi there!
 
