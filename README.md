@@ -11,7 +11,7 @@ My main motivation is building applications that bring value to others and help 
 Outside of software development, I practice calisthenics and enjoy reading philosophy and books that encourage critical thinking and personal growth.
 
 - 
-# TECHNICAL SKILLS
+# Technical Skills
 
  ### Languages
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
